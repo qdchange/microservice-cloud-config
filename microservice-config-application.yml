@@ -1,6 +1,6 @@
 spring:
   profiles:
-    active: dev
+    active: dev
 ---
 server:
   port: 4001
